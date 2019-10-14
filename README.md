@@ -23,7 +23,7 @@ Saves both a CSV of all data retrieved and png images for each scatter plot.
 
 ## Observable Trends
 
-1. As expected, there is a strong correlation between the latitude and the max temperature values. The weather tends to get hotter as we approach equator. However, the maximum temperature is not exactly at the equator but slightly above (approx. 20o – 25o) the equator.
+1. As expected, there is a strong correlation between the latitude and the max temperature values. The weather tends to get hotter as we approach equator. However, the maximum temperature is not exactly at the equator but slightly above (approx. 20o â€“ 25o) the equator.
 
 ![max_temp](Code/Images/Max_Temp.png)
 
@@ -34,6 +34,8 @@ Saves both a CSV of all data retrieved and png images for each scatter plot.
 ![cloudiness](Code/Images/Cloudiness.png)
 
 3. The wind speed value is also not correlated to the latitude. And most of the cities seem to have wind speed values below 6 mph.
+
+
 ![wind_speed](Code/Images/Wind_Speed.png)
 
 
